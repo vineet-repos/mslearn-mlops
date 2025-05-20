@@ -10,6 +10,8 @@ from sklearn.linear_model import LogisticRegression
 
 
 # define functions
+def split_data(df):
+    null
 def main(args):
     # TO DO: enable autologging
 
